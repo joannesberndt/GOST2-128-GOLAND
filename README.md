@@ -1,2 +1,3 @@
 # GOST2-128-GOLAND
-File encryption with GOST2-128 in CBC mode (Go language)
+
+# Block encryption with GOST2-128 in ECB mode (Go language)
